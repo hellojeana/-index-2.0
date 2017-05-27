@@ -1,0 +1,89 @@
+#main{
+	height: auto;
+	width: 1000px;
+	margin:0px auto;
+}
+.position {
+	background: url(nav.gif) no-repeat 15px;
+	font-size: 14px;
+	height: 32px;
+	line-height: 32px;
+	padding-left: 33px;
+}
+#mainLeft {
+	float: left;
+
+}
+#leftHead {
+	display: block;
+	height: 40px;
+	width: 226px;
+	text-align: center;
+	line-height: 40px;
+	background: url(box1head.gif);
+}
+#leftHead a {
+	color: #10509d;
+	font-size: 17px;
+		font-weight: bold;
+}
+#leftCenter {
+	border-left: #e8e8e8 1px solid;
+	border-right: #e8e8e8 1px solid;
+}
+#leftCenter .list1 {
+	display: block;
+	height: 33px;
+	width: 224px;
+	background: url(cat_list.gif);
+	line-height: 33px;
+	text-align: center;
+	font-size: 17px;
+}
+#leftBottom {
+	background: url(box1bottom.gif) no-repeat;
+	height: 14px;
+	width: 226px;
+	border-bottom: #e8e8e8 1px solid;
+	position: relative;
+	bottom: 10px;
+}
+#mainRight {
+	width: 850px;
+	float: right;
+}
+#rightHead {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: 1px solid #e2e2e2;
+	height: 35px;
+	background: url(box2head.gif) repeat-x;
+	font-weight: bold;
+}
+#rightHead p {
+	background: url(title1.png) no-repeat 10px;
+	line-height: 20px;
+	text-indent: 30px;
+	font-size: 18px;
+}
+#rightBottom {
+	height: 500px;
+	padding: 30px;
+	border:1px solid #e2e2e2 ;
+	
+}
+#rightBottom ul li {
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	border-bottom: dashed 1px #e2e2e2;
+}
+#rightBottom ul li a {
+	font-size: 14px;
+}
+#rightBottom span {
+	float: right;
+}
+#liebiao {
+	margin-top: 20px;
+}

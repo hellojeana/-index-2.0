@@ -1,0 +1,138 @@
+#main{
+	height: 1200px;
+	width: 1000px;
+	margin:20px auto;
+	padding-left: 15px;
+	padding-right: 10px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+#mainLeft {
+	float: left;
+	font-weight: bold;
+	margin-top: 45px;
+}
+#leftHead {
+	display: block;
+	height: 40px;
+	width: 226px;
+	text-align: center;
+	line-height: 40px;
+	background: url(box1head.gif);
+}
+#leftHead a {
+	color: #10509d;
+	font-size: 18px;
+}
+#leftCenter {
+	width: 225px;
+	border-left: #e8e8e8 1px solid;
+	border-right: #e8e8e8 1px solid;
+}
+#leftCenter .list1 {
+	display: block;
+	height: 33px;
+	width: 222px;
+	background: url(cat_list.gif);
+	line-height: 33px;
+	text-align: center;
+	font-size: 17px;
+}
+#leftBottom {
+	background: url(box1bottom.gif) no-repeat;
+	height: 16px;
+	width: 226px;
+	border: #e8e8e8 1px solid;
+	margin-top: -11px;
+}
+/*  #mainLeft {
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+#leftHead {
+	margin-left: 10px;
+	margin-top: 25px;
+	background: url(lan_2.png) no-repeat;
+	height: 50px;
+	width: 280px;
+	line-height: 50px;
+	font-size: 18px;
+	color: #fff;
+	font-weight: 400;
+	text-indent: 20px;
+	
+}
+#leftBottom {
+	margin-left: 25px;
+	margin-top: 20px;
+}
+#leftBottom ul li {
+	display: block;
+	height: 35px;
+	font-size: 17px;
+	line-height: 35px;
+	color: #444;
+	border-bottom: 1px solid #e1e1e1;
+	text-indent:20px;
+	background: url(ico2.png) no-repeat -6px 8px;
+}
+*/
+#mainRight {
+	width: 650px;
+	float: right;
+	height: 800px;
+	margin-top: 45px;
+}
+#rightTop {
+	display: block;
+	height: 40px;
+	background: url(box2head.gif) repeat-x;
+	border:solid 1px #bbb ;
+	padding-bottom:10px ;
+}
+#rightTop p {
+	float: left;
+
+}
+#rightTop span {
+	float: right;
+	color: #bbb;
+	padding-top: 10px;
+	padding-right:10px ;
+	font-size: 16px;
+}
+#rightTop span a {
+	color: #bbb;
+	font-size: 16px;
+}
+.title1 {
+	font-size: 24px;
+	text-indent: 30px;
+	font-weight: 400;
+}
+.title2 {
+	padding-top: 10px;
+	padding-left: 5px;
+	color: #333;
+	font-weight: 300;
+}
+#rightBottom {
+	padding-left: 5px;
+}
+#rightBottom ul {
+	padding-top: 63px;	
+	float: left;
+}
+#rightBottom ul li {
+	display: block;
+	float: left;
+	height: 230px;
+	width: 144px;
+	background: url(11.png) no-repeat;
+	margin-right: 15px;
+}
+#rightBottom ul li p {
+	padding-top: 200px;
+	text-align: center;
+}

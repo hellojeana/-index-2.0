@@ -1,0 +1,12 @@
+#bottomNav {background:#eeeeee;border:#cccccc 1px solid;height:33px;margin:7px auto 0;padding-top:10px;overflow: hidden;width: 958px;text-align:center;}
+
+
+.frindlink{background:url(frdlink_bg.png) repeat-x left top;clear:both;margin-top:10px;width:960px;padding-top:12px;height:38px;line-height:36px;color: #000099; text-align: center;}
+.frindlink  span{color:#0a4a76}
+.frindlink a{color: #000099;}
+#footer {clear:both; display:block;background:#0068ba;margin-top:15px;}
+#footer .inner {width: 1000px;height:auto;margin: 0 auto;overflow: hidden;display: block;font-family: Tahoma;color: #fff;}
+#footer ul { padding:10px 0px; }
+#footer ul li {color:#ffffff; text-align:center;font-size:12px;}
+#footer a,#footer a.vison{color:#fff;}
+
